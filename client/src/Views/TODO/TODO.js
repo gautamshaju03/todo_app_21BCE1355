@@ -1,3 +1,4 @@
+//This file is with the editing option for both tasks and dependencies
 import { useEffect, useState } from 'react';
 import Styles from './TODO.module.css';
 import { dummy } from './dummy';
