@@ -1,3 +1,4 @@
+//This file does not contain the code for editing and is just for CRUD operations of todo tasks
 import { useEffect, useState } from 'react'
 import Styles from './TODO.module.css'
 import { dummy } from './dummy'
